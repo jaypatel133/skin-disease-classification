@@ -1,0 +1,20 @@
+.report_img{
+    width: auto;
+    height: inherit;
+}
+.report_label{
+    font-weight: 600;
+}
+
+.re{
+    margin-top: 20px;
+}
+
+.col-re{
+    height: 200px;
+    overflow: hidden;
+}
+
+.detail_re{
+    padding: 30px;
+}

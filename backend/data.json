@@ -1,0 +1,18 @@
+[{
+    "disease_name": "Chickenpox",
+    "symptoms":["Fever","Loss of appetite","Headache","Tiredness and a general feeling of being unwell"],
+    "causes":["Chickenpox infection is caused by the varicella-zoster virus. It can spread through direct contact with the rash.","It can also spread when a person with the chickenpox coughs or sneezes and you inhale the air droplets."],
+    "When to see a doctor":["The rash spreads to one or both eyes.","The rash gets very red, warm or tender. This could indicate a secondary bacterial skin infection.","The rash is accompanied by dizziness, disorientation, rapid heartbeat, shortness of breath, tremors, loss of muscle coordination, worsening cough, vomiting, stiff neck or a fever higher than 102 F (38.9 C).","Anyone in the household has a problem with his or her immune system or is younger than 6 months."]
+},
+{
+    "disease_name": "Monkeypox",
+    "symptoms":["Fever","Headache","Chills","Muscle aches","Fatigue","Swollen lymph nodes"],
+    "causes":["it's spread when you come into contact with an animal or a person infected with the virus","Animal-to-person transmission occurs through broken skin, like from bites or scratches","Person-to-person spread (transmission) occurs when you come in contact with the sores, scabs"],
+    "When to see a doctor":["Trouble breathing.","New or worsening chest pain.","Stiff neck.","Are confused or can’t think clearly.","Difficulty speaking or moving.","Loss of consciousness.","Seizures."]
+},
+{
+    "disease_name": "Measles",
+    "symptoms":["Fever","cough","runny nose","red eyes","sore throat","white spots inside the mouth","Muscle pain."],
+    "causes":["Contaminated droplets that are spread through the air when you cough, sneeze or talk.","Sharing drinks or food with someone with measles.","Shaking hands or holding hands or hugging someone with measles.","From pregnant people to their babies — either during the pregnancy, delivery or while nursing."],
+    "When to see a doctor":["changes to their personality","confusion or memory loss (amnesia)","seizures or paralysis."]
+}]

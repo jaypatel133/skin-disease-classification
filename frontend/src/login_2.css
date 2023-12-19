@@ -1,0 +1,87 @@
+
+
+.login_img{
+    margin: auto;
+    width: 110%;
+    margin-left: -35%;
+}
+
+.myrow{
+    height: 75vh;
+    border-radius: 15px;
+}
+
+.btn_login{
+    font-weight: 600;
+    color: white;
+    background: #439A97;
+    border-color: #439A97;
+    border-radius: 5rem;
+}
+.btn_login:hover{
+    background: #3d908d;
+    border-color: #3d908d;
+    color: white;
+}
+
+.main{
+    position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;
+}
+
+.main{
+    background-color: #cbedd5;
+}
+
+.main_box{
+    position: relative;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+.card{
+    background: transparent;
+    border: 0px;
+}
+
+.log_pr{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: white;
+    margin-left: 8.33%;
+    
+}
+
+.pic_br{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.login_BG{
+    background-color: #439A97;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.google_log{
+    letter-spacing: 0.5px;
+  color: #000;
+  background-color: rgb(246, 246, 246);
+  border: none;
+  border-radius: 45px;
+  box-shadow: 5px 8px 15px rgba(46, 229, 157, 0.2);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+}
+
+.google_log:hover{
+  background-color: rgb(246, 246, 246);
+
+    box-shadow: 5px 15px 20px rgba(46, 229, 157, 0.4);
+    transform: translateY(-7px);
+}

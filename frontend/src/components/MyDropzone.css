@@ -1,0 +1,14 @@
+.Dropzone{
+    height: 200px;
+}
+
+.Dropzone_text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: silver 2px;
+    border-style: dashed;
+    border-radius: 5px;
+    padding: 20px;
+    height: 92%;
+}

@@ -1,0 +1,82 @@
+.home{
+    margin: 0rem 2rem 2rem;
+}
+
+.nav_b{
+    padding-left: 2.1rem;
+    padding-top: 1rem;
+}
+
+.nav-link-text{
+    color: rgb(92, 92, 92);
+    font-weight: 700;
+}
+
+.nav_f{
+    background-color: #CBEDD5;
+    padding-bottom: 1rem;
+}
+
+.btn_color{
+    font-weight: 600;
+    color: white;
+    background: #439A97;
+    border-color: #439A97;
+    border-radius: .5rem;
+}
+.btn_color:hover{
+    background: #3d908d;
+    border-color: #3d908d;
+    color: white;
+}
+
+.How_to{
+    margin: 4rem;
+    
+    color: rgb(76, 76, 76);
+}
+
+.How_to_bg
+{
+    background-color: #6ae0c4;
+    margin: 0 -2rem;
+    padding: 0.1rem 0 0.1rem;
+    
+}
+
+.fill{
+    background-color: rgb(76, 76, 76);
+    width: 1000rem;
+    height: 30rem;
+}
+
+.footer{
+   color: white;
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: #439A97;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color:  #439A97;
+}
+
+.home::-webkit-scrollbar {
+    display: none;
+  }
+
+body::-webkit-scrollbar{
+    display: none;
+}
